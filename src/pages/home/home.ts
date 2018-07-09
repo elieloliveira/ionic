@@ -11,6 +11,8 @@ export class HomePage {
 
   public _teste:string = "Meu primeiro app web";
 
+  public _teste2:string = "Meu primeiro app web";
+
   constructor(public navCtrl: NavController) {
    
   }
